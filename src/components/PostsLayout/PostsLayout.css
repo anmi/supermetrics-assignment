@@ -1,0 +1,13 @@
+.PostsLayout {
+    display: flex;
+    flex-direction: row;
+    padding: 8px
+}
+
+.PostsLayout__left {
+    margin-right: 8px;
+}
+
+.PostsLayout__right {
+    flex-grow: 2;
+}

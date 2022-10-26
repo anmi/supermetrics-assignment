@@ -1,0 +1,18 @@
+.PostsList__entry {
+    margin-bottom: 8px;
+}
+
+.PostsList__controls {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.PostsList__sort {
+    flex-grow: 2;
+}
+
+.PostsList__sortButton {
+    margin-right: 8px;
+}

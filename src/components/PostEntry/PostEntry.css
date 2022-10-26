@@ -1,0 +1,8 @@
+.PostEntry {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.PostEntry__date {
+    margin-bottom: 8px;
+}

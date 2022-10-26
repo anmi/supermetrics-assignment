@@ -1,0 +1,13 @@
+.Field {
+    width: 200px;
+}
+
+.Field__label {
+    display: block;
+    padding-bottom: 8px;
+}
+
+.Field__input {
+    width: 200px;
+    box-sizing: border-box;
+}

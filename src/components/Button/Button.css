@@ -1,0 +1,11 @@
+.Button {
+    padding: 8px 8px;
+    font-size: 16px;
+    background: #eee;
+    border: 1px solid #000;
+}
+
+.Button_active {
+    border: 2px solid #777;
+    background: #ddd;
+}
