@@ -5,8 +5,8 @@ import { mapLoadable } from "../store/Loadable";
 import { registerAction, useAppDispatch, useAppSelector } from "../store/store";
 
 export const LoginPage: React.FC = () => {
-  const [name, setName] = useState("abc");
-  const [email, setEmail] = useState("my@mail.com");
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
   const dispatch = useAppDispatch();
   const navigate = useNavigate();
   const authState = useAppSelector(state => mapLoadable(state.authStatus, () => null))
