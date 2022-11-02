@@ -48,7 +48,6 @@ export function createAppState({
 }: {
   slToken: string | null;
 }): LoadablePostsState {
-    console.log('sltoken', slToken)
   return {
     posts: initialLoadable,
     pageLoading: initialLoadable,
