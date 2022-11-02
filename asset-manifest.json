@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/supermetrics-assignment/static/css/main.50ea99e4.css",
-    "main.js": "/supermetrics-assignment/static/js/main.598b0cb0.js",
+    "main.js": "/supermetrics-assignment/static/js/main.6199973e.js",
     "static/js/787.572cb8bd.chunk.js": "/supermetrics-assignment/static/js/787.572cb8bd.chunk.js",
     "index.html": "/supermetrics-assignment/index.html",
     "main.50ea99e4.css.map": "/supermetrics-assignment/static/css/main.50ea99e4.css.map",
-    "main.598b0cb0.js.map": "/supermetrics-assignment/static/js/main.598b0cb0.js.map",
+    "main.6199973e.js.map": "/supermetrics-assignment/static/js/main.6199973e.js.map",
     "787.572cb8bd.chunk.js.map": "/supermetrics-assignment/static/js/787.572cb8bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50ea99e4.css",
-    "static/js/main.598b0cb0.js"
+    "static/js/main.6199973e.js"
   ]
 }
